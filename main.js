@@ -1,3 +1,3 @@
-// Auteur : Patricia Bravo
+// Auteur : Patricia - Jonathan Martel
 console.log("test")
 
